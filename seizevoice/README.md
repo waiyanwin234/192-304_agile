@@ -19,9 +19,14 @@ they fear judgment.
 
 ## Team
 
-Min Thant Kyaw (6905140006)
-Wai Yan Win (6905140010)
-Nyan Linn Maung (6905140049)
+## Team
+
+| Name | ID | Nickname |
+|---|---|---|
+| Min Thant Kyaw | 6905140006 | Armin |
+| Wai Yan Win | 6905140010 | Awin |
+| Nyan Linn Maung | 6905140049 | Nyan Maung |
+
 
 ## Course
 
